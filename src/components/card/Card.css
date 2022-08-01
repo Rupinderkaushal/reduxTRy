@@ -1,0 +1,24 @@
+.description{
+        height: 100px;
+    padding: 5px;
+    overflow: scroll;
+}
+::-webkit-scrollbar{
+    display: none;
+}
+.image{
+    width: 300px!important;
+    height: 250px;
+    margin: auto;
+}
+.title{
+    height: 50px;
+    overflow: hidden;
+}
+::-webkit-scrollbar{
+    display: none;
+}
+.card-wrapper{
+    height: 500px;
+    padding: 5px;
+}
